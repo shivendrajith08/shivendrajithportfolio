@@ -82,10 +82,9 @@ A **world-class, award-level personal portfolio** built entirely in vanilla HTML
 ## 📁 Project Structure
 
 ```
-shivendrajithportfolio/
-│
+portfoliomain/
 ├── index.html      # Complete portfolio (HTML + CSS + JS, single file)
-└── README.md       # This file
+README.md       # This file
 ```
 
 ---
@@ -151,20 +150,13 @@ https://shivendra-jith-portfolio1.netlify.app
 
 ---
 
-## 📄 License
-
-MIT License — free to fork, adapt, and use as inspiration.
-A ⭐ **star** on the repo is appreciated!
-
----
-
 <div align="center">
 
 **Built with 💜 by Shivendra Jith S S · Bengaluru, India · 2025**
 
 <br/>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/placeholder/deploy-status)](https://shivendra-jith-portfolio1.netlify.app)
+
 
 </div>
 
