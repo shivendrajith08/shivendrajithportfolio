@@ -82,7 +82,7 @@ A **world-class, award-level personal portfolio** built entirely in vanilla HTML
 ## 📁 Project Structure
 
 ```
-portfoliomain/
+Portfolio main/
 ├── index.html      # Complete portfolio (HTML + CSS + JS, single file)
 README.md       # This file
 ```
