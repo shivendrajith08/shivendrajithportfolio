@@ -80,3 +80,91 @@ A **world-class, award-level personal portfolio** built entirely in vanilla HTML
 ---
 
 ## 📁 Project Structure
+
+```
+shivendrajithportfolio/
+│
+├── index.html      # Complete portfolio (HTML + CSS + JS, single file)
+└── README.md       # This file
+```
+
+---
+
+## 🚀 Getting Started
+
+### Run Locally
+
+```bash
+git clone https://github.com/shivendrajith08/shivendrajithportfolio.git
+cd shivendrajithportfolio
+open index.html
+```
+
+### 🌐 Live Site
+
+```
+https://shivendra-jith-portfolio1.netlify.app
+```
+
+---
+
+## 🎨 Sections
+
+| # | Section | Description |
+|---|---|---|
+| 1 | **Hero** | Full-viewport cinematic intro with 3D WebGL background |
+| 2 | **Marquee** | Infinite scrolling tech stack ticker |
+| 3 | **About** | Bio, animated skill bars, stats counter |
+| 4 | **Services** | 4-card grid with radial mouse-glow effect |
+| 5 | **Projects** | Horizontal drag-scroll showcase |
+| 6 | **Experience** | Glowing timeline + education cards |
+| 7 | **Certifications** | Verified credential cards |
+| 8 | **Contact** | Email, phone, LinkedIn, GitHub links |
+
+---
+
+## 👤 About Me
+
+**Shivendra Jith S S** — Entry-level Full Stack Developer based in Bengaluru, India.
+
+- 🎓 MCA — Alagappa University (2023–2025)
+- 🎓 BCA — Nesamony Memorial Christian College (2019–2022)
+- 💼 Full Stack Intern — Scope India · Suffix E Solutions (Nov 2022 – Apr 2023)
+- 🐍 Certified Full Stack Developer (Python)
+- 🎮 AR & Unity Game Development — INOX Technologies
+
+### Core Skills
+
+`Python` `Java` `JavaScript` `Flask` `Django` `Spring Boot` `React.js` `MySQL` `PostgreSQL` `REST APIs` `Git` `Bootstrap` `HTML/CSS` `Unity` `AR`
+
+---
+
+## 📬 Contact
+
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | [shivendra-jith-portfolio1.netlify.app](https://shivendra-jith-portfolio1.netlify.app) |
+| 📧 Email | [shivendrajith@gmail.com](mailto:shivendrajith@gmail.com) |
+| 📞 Phone | +91 78450 21754 |
+| 💼 LinkedIn | [linkedin.com/in/shivendra-jith](https://linkedin.com/in/shivendra-jith) |
+| 🐙 GitHub | [github.com/shivendrajith08](https://github.com/shivendrajith08) |
+
+---
+
+## 📄 License
+
+MIT License — free to fork, adapt, and use as inspiration.
+A ⭐ **star** on the repo is appreciated!
+
+---
+
+<div align="center">
+
+**Built with 💜 by Shivendra Jith S S · Bengaluru, India · 2025**
+
+<br/>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/placeholder/deploy-status)](https://shivendra-jith-portfolio1.netlify.app)
+
+</div>
+
